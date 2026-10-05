@@ -1,6 +1,6 @@
 # JevIntroSkip
 
-The studio logos and cinematics hold up every launch, and a new character has to sit through a lore text and a long Valkyrie flight before it can move. This mod skips all of it.
+Studio logos and cinematics hold up every launch, and new character has to sit through the lore text and long Valkyrie flight before it can move. This mod skips all of it.
 
 ## Features
 
