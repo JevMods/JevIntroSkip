@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "JevMods"
 name = "JevIntroSkip"
-versionNumber = "1.0.2"
+versionNumber = "1.0.3"
 description = "The studio logos and the intro cinematic delay every launch, and a new character sits through a lore text and a Valkyrie flight before it can play. This mod skips all of it, and each skip has its own setting."
 websiteUrl = "https://github.com/JevMods/JevIntroSkip"
 containsNsfwContent = false
