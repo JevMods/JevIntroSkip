@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Synced the Thunderstore description with the README.
+
 ## 1.0.3
 
 - Fixed the grammar in the README intro.
