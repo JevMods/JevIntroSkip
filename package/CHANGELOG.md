@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5
+
+- New icon: the Valkyrie from the game with a "no" sign over it.
+
 ## 1.0.4
 
 - Synced the Thunderstore description with the README.
