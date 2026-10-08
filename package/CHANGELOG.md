@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+
+- Shorter description that says what gets skipped and that each skip is a toggle.
+
 ## 1.0.5
 
 - New icon: the Valkyrie from the game with a "no" sign over it.

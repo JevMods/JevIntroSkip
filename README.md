@@ -1,6 +1,6 @@
 # JevIntroSkip
 
-Studio logos and cinematics hold up every launch, and a new character has to sit through the lore text and a long Valkyrie flight before it can move. This mod skips all of it.
+Skips the studio logos, the intro video, the lore text and the Valkyrie flight, so you get into the game without the wait. Each one is a toggle, so you only skip what you want to.
 
 ## Features
 
